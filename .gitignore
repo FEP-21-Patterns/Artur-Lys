@@ -1,0 +1,29 @@
+# Build and dependency folders
+**/bin/
+**/obj/
+**/node_modules/
+**/__pycache__/
+
+# Log files and temporary files
+*.log
+*.tmp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# C# / .NET specific (for lab4)
+[Bb]in/
+[Oo]bj/
+*.user
+*.pdb
+*.suo
+*.vspscc
+.idea/
+.vscode/
+
+# Python specific
+*.pyc
+venv/
+env/
