@@ -1,3 +1,8 @@
+<img width="1163" height="893" alt="image" src="https://github.com/user-attachments/assets/dfa37a74-2b02-4154-b925-71b84be34c84" />
+<img width="530" height="411" alt="image" src="https://github.com/user-attachments/assets/0ec8a215-1b3a-41df-8555-22187f2fe9a4" />
+<img width="505" height="307" alt="image" src="https://github.com/user-attachments/assets/5341bec8-3dfb-4fb3-9d39-2168922d3c6c" />
+<img width="511" height="420" alt="image" src="https://github.com/user-attachments/assets/2fbda6cd-8775-446a-a549-984b43d742a3" />
+<img width="514" height="298" alt="image" src="https://github.com/user-attachments/assets/64520950-e495-4b24-bb5e-67610dc0496b" />
 
 # Assignment — SmartApp IoT Microservices Refactor
 
